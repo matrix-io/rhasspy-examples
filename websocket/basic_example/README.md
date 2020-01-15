@@ -1,4 +1,4 @@
-# Web Socket Events
+# Web Socket Events (Any Computer)
 
 This folder contains code to help you get started on how to catch intents for the Rhasspy voice assistant on any computer.
 

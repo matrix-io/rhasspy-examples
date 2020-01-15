@@ -1,4 +1,4 @@
-# Web Socket Events
+# Web Socket Events (Raspberry Pi + MATRIX Device)
 
 This folder contains code to help you get started on how to catch intents for the Rhasspy voice assistant on your MATRIX device. The example skill will allow you to chang the color of the MATRIX LEDs.
 

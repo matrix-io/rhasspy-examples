@@ -3,6 +3,7 @@ const https = require("http");
 const IP = "192.168.1.35";
 
 const ws = new WebSocket("ws://" + IP + ":12101/api/events/intent");
+console.log("-----> Be sure to change to IP address! <-----");
 console.log("**Started Web Socket Client**");
 
 ws.on("open", function open() {
