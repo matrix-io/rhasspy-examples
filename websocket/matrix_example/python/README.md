@@ -5,11 +5,11 @@
 Install all dependencies.
 
 ```bash
-npm install
+sudo python3 -m pip install -r ./requirements.txt
 ```
 
 Start the program.
 
 ```bash
-node index.js
+python3 app.py
 ```

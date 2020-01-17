@@ -22,7 +22,7 @@ ws.on("message", function incoming(data) {
 
   if ("Led" === data.intent.name) {
     matrix.led.set(data.slots["color"]);
-    say("\n Device changed to: " + data.slots["color"]);
+    say("Device changed to: " + data.slots["color"]);
   }
 });
 

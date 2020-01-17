@@ -1,0 +1,2 @@
+matrix-lite >= 0.0.8
+websocket_client >= 0.57.0 
