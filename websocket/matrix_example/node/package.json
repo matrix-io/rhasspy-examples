@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@matrix-io/matrix-lite": "^0.4.6",
     "ws": "^7.2.1"
   }
 }
